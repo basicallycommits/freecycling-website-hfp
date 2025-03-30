@@ -1,8 +1,3 @@
-# Assignment repository for SOFTENG-350
+# Freecycling Website High-Fidelity Prototype
 
-Contains assignment files for a uni project. 
-
-## Disclaimers
-
-- Commit practice not the best since I'm trying to get through this reasonably quickly.
-- Responsiveness is not required for this assignment but I added it anyway.
+A responsive, aesthetically pleasing UI for a website that promotes recycling.
